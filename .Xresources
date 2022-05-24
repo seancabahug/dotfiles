@@ -36,7 +36,7 @@
 *.color15:      #cccccc
 
 !! URxvt Appearance
-URxvt.font: xft:Source Code Pro:style=Regular:size=13,xft:Symbols Nerd Font:style=2048-em, xft:PowerlineSymbols:style=Medium
+URxvt.font: xft:Source Code Pro:style=Regular:size=13,xft:Iosevka Nerd Font Mono:size=13,xft:Symbols Nerd Font:style=2048-em, xft:PowerlineSymbols:style=Medium
 URxvt.boldFont: xft:Source Code Pro:style=Bold:size=13
 URxvt.italicFont: xft:Source Code Pro:style=Italic:size=13
 URxvt.boldItalicfont: xft:Source Code Pro:style=Bold Italic:size=13
